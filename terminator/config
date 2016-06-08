@@ -21,7 +21,7 @@
     cursor_color_fg = False
     cursor_shape = ibeam
     font = Droid Sans 13
-    foreground_color = "#839496"
+    foreground_color = "#c5c5c8"
     palette = "#071e24:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#000000:#cb4b16:#408e26:#e21b1d:#1473a6:#6c71c4:#539b9f:#fdf6e3"
     show_titlebar = False
     use_system_font = False
@@ -32,7 +32,7 @@
     cursor_color_fg = False
     cursor_shape = ibeam
     font = Monospace 13
-    foreground_color = "#839496"
+    foreground_color = "#c5c5c8"
     palette = "#071e24:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#000000:#cb4b16:#408e26:#e21b1d:#1473a6:#6c71c4:#539b9f:#fdf6e3"
     show_titlebar = False
     use_system_font = False
