@@ -1,5 +1,7 @@
 #Dotfiles
 
+Collection of My dotfiles.
+
 ##Installation
 
 ###Terminator
